@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23fb53095d626ee44abe58af824a63b4, type: 3}
+  m_Name: FlechaHit
+  m_EditorClassIdentifier: 
+  sonidos:
+  - {fileID: 8300000, guid: 8d37a9246a5564343a6663fed8225138, type: 3}
+  - {fileID: 8300000, guid: b204383329e190c408e7128b8ce0a9fe, type: 3}
+  - {fileID: 8300000, guid: 5b90c047c8e5d7645a6b75c5090047fc, type: 3}
+  - {fileID: 8300000, guid: 961ec8424d99bd24ca30420105ca397c, type: 3}
+  - {fileID: 8300000, guid: 1779891f240e93446b17bedd0df83797, type: 3}
+  - {fileID: 8300000, guid: 521df3f566e4b4044abe6e8f02afe558, type: 3}
+  - {fileID: 8300000, guid: 99ddce0fa8bfc4a46b216d713aabc55d, type: 3}
+  - {fileID: 8300000, guid: 6541edc0f8c97494bafe0b01b7c1d8a2, type: 3}

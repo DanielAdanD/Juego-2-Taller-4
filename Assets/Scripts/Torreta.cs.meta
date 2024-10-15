@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 790bb6daacd36ca4a86579c39e85c6cd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - prefabFlecha: {instanceID: 0}
+  - objetivo: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

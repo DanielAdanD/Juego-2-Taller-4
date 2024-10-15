@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Script/Menu/MenuController.cs.meta
+guid: 9f8238902c6484d478ada18a99c751a0
+========
+guid: f4905ec57f94c5d4994a460394ab56b7
+>>>>>>>> 7b462ffb38b5d4bdd771cdfa6c79a1ffd469e53d:Assets/Scripts/CheckPoint.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
